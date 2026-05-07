@@ -1,11 +1,12 @@
 🟡 SmartPortfolio
 
 SmartPortfolio é uma API REST de investimentos desenvolvida com Java 21 + Spring Boot, focada no gerenciamento de carteira, simulação de rentabilidade e organização de ativos financeiros.
-
 A aplicação permite criar, consultar e simular investimentos de forma simples, estruturada e escalável.
 
 
+
 🎯 Objetivo
+
 
 Este projeto foi desenvolvido com foco em:
 
