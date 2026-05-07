@@ -4,7 +4,6 @@ SmartPortfolio é uma API REST de investimentos desenvolvida com Java 21 + Sprin
 
 A aplicação permite criar, consultar e simular investimentos de forma simples, estruturada e escalável.
 
-🔗 Repositório: https://github.com/robertocyanes/smartportfolio
 
 🎯 Objetivo
 
@@ -51,7 +50,7 @@ class SmartPortfolioApplicationTests {
     void contextLoads() {
     }
 }
-🧪 Evolução dos Testes (Recomendado)
+🧪 Evolução dos Testes (Futuramente)
 
 Estrutura pronta para expansão:
 
@@ -114,7 +113,8 @@ Cenários positivos e negativos
 JUnit (backend)
 Mockito (mock de serviços)
 Cypress (fluxos de API/integração futura)
-🟡 Melhorias Futuras
+
+ Melhorias Futuras:
 🔐 Autenticação JWT
 📈 Dashboard com gráficos
 🟡 Docker
@@ -128,3 +128,6 @@ Este projeto está estruturado como base profissional de API Spring Boot com foc
 
 Autor:
 Roberto César Yanes
+
+Github:  https://github.com/robertocyanes/smartportfolio
+
